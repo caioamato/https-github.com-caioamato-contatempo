@@ -1,0 +1,5 @@
+{
+  "name": "CONTA TEMPO",
+  "description": "Aplicativo para contagem inteligente de dias. Selecione datas no calendário para calcular automaticamente totais, dias úteis e finais de semana.",
+  "requestFramePermissions": []
+}
